@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @0layimika
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Django
+- 👀 I’m a Backend developer
 - 💞️ I’m looking to collaborate on various backend development projects
-- 📫 How to reach me ibukunoluwa.kayode@stu.cu.edu.ng
+- 📫 How to reach me olakay739@gmail.com
 
 <!---
 0layimika/0layimika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
